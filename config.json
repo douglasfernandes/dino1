@@ -1,0 +1,9 @@
+{
+    "webserver": "localhost:8181",
+    "dbhost" : "localhost",
+	"dbport" : "5432",
+	"dbuser" : "postgres",
+	"dbpwd"  : "123456",
+	"dbname" : "dino",
+	"frontend" : "./dynowebportal/dinoTemplate/"
+}
